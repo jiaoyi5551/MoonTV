@@ -88,6 +88,18 @@
     "fc": {
       "api": "https://api.fczy888.me/api.php/provide/vod",
       "name": "蜂巢片库"
-    }
-  }
+    },
+    "gszy": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源"
+    },
+    "sn": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+    },
+    "sb": {
+      "api": "https://subocj.com/api.php/provide/vod",
+      "name": "速播资源"
+   }
+ }
 }
