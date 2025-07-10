@@ -73,7 +73,11 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
- "hh": {
+    "ikun": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "iKun资源"
+    }
+    "hh": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华影视"
     },
@@ -85,6 +89,5 @@
       "api": "https://api.fczy888.me/api.php/provide/vod",
       "name": "蜂巢片库"
     },
-    }
   }
 }
